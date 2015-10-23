@@ -9,4 +9,3 @@
 
 ## Repo owner or admin
 * Pramod Maurya
-* Sumeet Tamta
